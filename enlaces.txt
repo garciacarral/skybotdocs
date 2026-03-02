@@ -1,1 +1,15 @@
 https://www.skyonline.net
+https://skyonline.net/cloud/
+https://skyonline.net/multicloud/
+https://skyonline.net/bare-metal/
+https://skyonline.net/cloud-connect/
+https://skyonline.net/colocation/
+https://skyonline.net/industrias/
+https://skyonline.net/grandes-empresas/
+https://skyonline.net/pymes/
+https://skyonline.net/datacenter/
+https://skyonline.net/nosotros/
+https://skyonline.net/contacto/
+https://skyonline.net/iaas/
+https://skyonline.net/ciberseguridad/
+https://skyonline.net/drp/
